@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_first_directory
+mkdir /0x00-shell_basics/my_first_directory
